@@ -1,3 +1,18 @@
 body {
-    background: purple;
+    background: rgb(92, 5, 92);
+}
+
+h1 {
+    color: gold;
+}
+
+p {
+    font-family: cursive;
+    color: gold;
+}
+
+.img {
+    height: 250px;
+    width: fit-content;
+    align-items: center;
 }
